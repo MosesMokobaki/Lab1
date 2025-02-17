@@ -1,0 +1,1 @@
+What i have done in this assignment is managing branches and documenting my work through commit messages, and deploying a simple web page to GitHub Pages. I had to create a repository, make multiple commits, manage branches, and deploy an HTML file according to the specifications provided. Also I created and deployed a simple HTML page about myself to GitHub pages.
